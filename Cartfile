@@ -1,2 +1,2 @@
-github "amplitude/Amplitude-iOS" ~> 7.0.1
-github "segmentio/analytics-ios"
+github "daltonclaybrook/Amplitude-iOS" "epau/tvos-carthage-8.4.0-broken-scheme-removed"
+github "epau/segment-analytics-ios" "epau/broken-scheme-removed"
